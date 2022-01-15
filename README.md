@@ -2,7 +2,7 @@
 
 These are my projects which were submitted and tested for my Data Analysis Certification on FreeCodeCamp.
 
-![Certificate](Data_Analysis_with_Python.PNG)
+![Certificate](D:\PROGRAMMING STUFF\UdemyML_JP\ml projects\FreeCodeCamp-DataAnalysis-Certification\FCC_DA_cert.png)
 https://www.freecodecamp.org/certification/horizon3902/data-analysis-with-python-v7
 
 
